@@ -1,0 +1,21 @@
+body {
+  background:blue;
+}
+p {
+  color: black;
+}
+h1 {
+  font-weight: bold;
+  text-align: center;
+}
+.myImage {
+  background-image: url("caption-(1).gif");
+  image-orientation: url(caption-(1).gif);
+  align-content: space-around;
+}
+h3 {
+  text-align: center;
+}
+h {
+  text-align: center;
+}
